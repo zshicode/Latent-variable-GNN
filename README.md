@@ -1,6 +1,6 @@
 # Differential equation and probability inspired graph neural networks for latent variable learning
 
-This repository consists some models with respect to [Differential equation and probability inspired graph neural networks for latent variable learning](https://arxiv.org/abs/2202.13800).
+This repository consists some models (1) with respect to [Differential equation and probability inspired graph neural networks for latent variable learning](https://arxiv.org/abs/2202.13800), (2) tentatively work for the combination of advanced variational inference approaches and graph neural networks for molecular classification as case studies.
 
 ## Contents
 
